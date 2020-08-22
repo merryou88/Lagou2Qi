@@ -1,12 +1,1 @@
-cat:
-  name: Tom
-  color: black
-  age: 1.5
-  sex: male
-  maofa: duanmao
-dog:
-  name: Senba
-  color: yellow
-  age: 1
-  sex: famale
-  maofa: changmao
+
